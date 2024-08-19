@@ -92,7 +92,7 @@ const Home = () => {
      </div>
 
      <div className=' text-white bg-[#35220d] sm:pl-[250px] md:pl-[300px] lg:pl-[450px]  xl:pl-[620px]' >
-        <h >© 2024 Chic Allure</h>
+        <h1 >© 2024 Chic Allure</h1>
      </div>
      
     </div>
